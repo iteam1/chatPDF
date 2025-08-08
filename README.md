@@ -1,7 +1,7 @@
-# chatPDF
+# playPDF
 
 ## Overview
-`chatPDF` is a lightweight Flask web app that lets you upload a PDF and view it in the browser with smooth scrolling, zoom controls, and a text layer for selectable/copyable text. It also provides an AI chat endpoint to ask questions about the PDF content using OpenAI.
+`playPDF` is a lightweight Flask web app that lets you upload a PDF and view it in the browser with smooth scrolling, zoom controls, and a text layer for selectable/copyable text. It also provides an AI chat endpoint to ask questions about the PDF content using OpenAI.
 
 ## Features
 - **File upload** with validation (`.pdf`) and size limit (default 50MB).
