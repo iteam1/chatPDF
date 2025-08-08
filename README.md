@@ -1,4 +1,7 @@
 # playPDF
+<div align="center">
+  <img src="assets/qwen-image_generate-a-image-about-a-big-brain.png" width="50%">
+</div>
 
 ## Overview
 `playPDF` is a lightweight Flask web app that lets you upload a PDF and view it in the browser with smooth scrolling, zoom controls, and a text layer for selectable/copyable text. It also provides an AI chat endpoint to ask questions about the PDF content using OpenAI.
