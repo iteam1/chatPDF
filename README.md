@@ -69,3 +69,7 @@ gunicorn app:app
 - Ensure `uploads/` is writable. The app creates it if missing.
 - The OpenAI key is required only for the `/chat` endpoint; viewing PDFs works without it.
 - Flask’s built-in server is for development. Use a WSGI server (e.g., Gunicorn) for production.
+
+## References
+
+- [pdftotext](https://linux.die.net/man/1/pdftotext)
